@@ -10,6 +10,12 @@ Show Me Around App Will Provide Preliminary Tour Guidance and Information About 
 # Live Link
 [Click here!](https://bilalsarimeseli.github.io/ShowMeAroundProject/)
 
+# Screenshots from Berkeley
+
+![weather](https://github.com/bilalsarimeseli/ShowMeAroundProject/blob/master/Screen%20Shot%202020-03-17%20at%2010.32.22%20PM.png?raw=true)
+----------------------
+![Berkeley](https://github.com/bilalsarimeseli/ShowMeAroundProject/blob/master/Screen%20Shot%202020-03-17%20at%2010.32.56%20PM.png?raw=true)
+
 # API Documentations & Sources 
     1. Unsplash.com        => https://unsplash.com/developers
     2. Pixabay.com         => https://pixabay.com/api/docs/
